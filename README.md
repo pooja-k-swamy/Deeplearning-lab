@@ -1,5 +1,6 @@
 # Deeplearning-lab
-My notes of DS-1008 GY lab sessions
+My notes of DS- GA 1008 GY 
+Updating as the course progresses
 
 
 _Why Deeper networks?_
