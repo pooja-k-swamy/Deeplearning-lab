@@ -7,6 +7,10 @@ _Why Deeper networks?_
 * More training modules
 * Exponentially wide hidden layer with 1000 neurons, it's better to stack these on multiple layers than spread in one hidden layer.
 * Computationally effecient
+
+
+
+
 DL- Lab 1
 Implementation of non-linearity functions on a randomly created data points in 2D space.
 Homework-1 
